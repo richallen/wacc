@@ -1,6 +1,6 @@
-title:            WACC
-tagline:          West Africa Cycle Challange
-description:      Sierra Leone to Liberia, in aid of Street Child
+title:            West Africa Cycle Challange
+tagline:          Sierra Leone to Liberia, in aid of Street Child
+description:      A cycleride through Seirra Leone and Liberia.
 url: https://pmrourkie.github.io/wacc/
 
 # Owner/author information
@@ -36,6 +36,9 @@ links:
     url: /pictures
   - title: Donate
     url:   
+  - title: Advice
+    url: /advice
+  
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
