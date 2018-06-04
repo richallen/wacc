@@ -5,21 +5,18 @@ url: https://pmrourkie.github.io/wacc/
 
 # Owner/author information
 owner:
-  name:           Cole Townsend
+  name:           Richard Allen
   avatar:         avatar.png
   bio:            "Aesthete & Athlete"
-  email:          cole@coletownsend.com
-  twitter:        twnsndco
-  github:         coletownsend
-  instagram:      ctrunsthis
-  dribbble:       coletownsend
+  email:          rourkie@gmail.com
+  twitter:        pmrourkie
+  github:         pmrourkie
+  instagram:      pmrourkie
   disqus:         balzac
-  location:       "Buffalo, NY"
+  location:       "Lonodn, UK"
   # Plug in your disqus shortname!
 
-tools:
-  standards:      "HTML, SCSS, Jekyll"
-  software:       "git"
+
 
 # Open Graph customization
 opengraph:
@@ -43,7 +40,7 @@ links:
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
 future:      true
-highlighter: pygments
+highlighter: rouge
 markdown:    kramdown
 
 kramdown:
