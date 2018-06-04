@@ -1,8 +1,7 @@
 title:            WACC
 tagline:          West Africa Cycle Challange
 description:      Sierra Leone to Liberia, in aid of Street Child
-
-url: https://pmrourkie.github.io/wacc
+url: https://pmrourkie.github.io/wacc/
 
 # Owner/author information
 owner:
@@ -29,14 +28,14 @@ opengraph:
 # Links to include in top navigation
 # For external links add external: true
 links:
+  - title: The Journey
+    url: /
   - title: About
     url: /about
-  - title: Github
-    url: https://github.com/ColeTownsend/Balzac-for-Jekyll
-    external: true
-  - title: Cole Who?
-    url: http://coletownsend.com
-    external: true
+  - title: Pictures
+    url: /pictures
+  - title: Donate
+    url:   
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
