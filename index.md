@@ -29,7 +29,7 @@ The ride starts; we started peddling at 7am from a local petrol station, waved o
 
 We stopped below a mango tree in a village called Futapeje for lunch, where two local Sierra Leonians who set up ahead of us cooked groundnut stew, chicken and rice for lunch - just what’s needed to fill a, by now, very hungry stomach! 
 
-![bikesandus]({{ site.url }}/images/photo-7.jpeg)
+![bikesandus]({{ site.url }}/images/2C86E1D7-8008-4B59-AB3B-DF7B06AF5A55.jpeg)
 
 After lunch we hit red dusty roads, with rollers up and down along an unbuilt road with the sun pounding down on us and the humidity hitting 96%...starting to wish I hadn’t eaten so much for lunch now! By 15:00 we had reached our finial point of the day, slightly ahead of schedule. The village was called Portoru, and, as is customary in Sierra Leone, we had an audience with the local chief where we handed over some gifts for the local children; footballs and supplies for the school - we then heard from some of the local girls who are beneficiaries of Street Child - allowing them to go to School. One of the local girls travelled 12 miles to get to school and used to sleep rough during the weeks so she could attend and return home during the weekends; unfortunately one night this poor girl was raped whilst sleeping out on the streets - now, thanks to the support of Street Child, she stays with a local family in the village during the week so she can attend her lessons.
 
