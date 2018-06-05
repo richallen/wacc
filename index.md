@@ -21,6 +21,8 @@ Today we visited a school a couple of miles out from the hotel where Street Chil
 
 After lunch, we headed to Street Child’s compound in Bo to get fitted up on our bikes (Mine was called ‘Big Boss’) and get a briefing on what the next few days would look like. Following this we went over to meet the Sports Minister in Bo’s Chinese funded Football stadium; a vast building which is rarely used as the local people need to ‘rent’ it out from the Chinese to use it, but the cost to rent is unaffordable and thus this building just stands there rusting, unused.
 
+![bike]({{ site.url }}/images/photo-2.jpeg)
+
 Time for some sleep, so we headed back to a hotel for a good rest before the start of the cycle ride....at this point, it became apparent that we got dropped off at the wrong hotel the night before (doh!) so a quick swap of hotels, a tasty dinner of chicken and rice followed by sleep.
 
 ## Day Two
@@ -37,7 +39,9 @@ Tough. Really tough.
 
 Day three was a solid 70 miles, up at 05:30 and setting off as early as possible so as to miss the midday heat. The morning was really hard; hills, hills and more hills. You force yourself up one hill, gasping for air whilst the lactic acid is building up in your legs to get to the top to only see you go back down and then up another one. There is no shade, the equatorial sun is inescapable at 28c and the humidity almost hitting around 96%. A sigh of relief, we finally hit the river Mauh where a hand pulled ferry made from local wood takes us across. A local lady is selling coconuts for 2,000 leones (20p) which provides some much needed refreshment.
 
-At the other side of the river we continue along much the same terrain until we hit a police check point at Zimmi, where we take a quick break whilst we sought permission to cycle through. By now the road was less wide, so we could cycle between the shade of the trees until we hit Nigmahurn where we stopped for lunch. Today’s lunch was spicy, a tad too spicy for my English tastebuds, but I still wolfed as much as I could down me. By now, some of the group started to get the West African stomach....quick, get the antibacterial hand wash! ![Image one]({{ site.url }}/images/photo.jpeg)
+At the other side of the river we continue along much the same terrain until we hit a police check point at Zimmi, where we take a quick break whilst we sought permission to cycle through. By now the road was less wide, so we could cycle between the shade of the trees until we hit Nigmahurn where we stopped for lunch. Today’s lunch was spicy, a tad too spicy for my English tastebuds, but I still wolfed as much as I could down me. By now, some of the group started to get the West African stomach....quick, get the antibacterial hand wash! 
+
+![Image one]({{ site.url }}/images/photo.jpeg)
 
 We continued on to the village of Fario where we had a sitting with the Chief to provide some more gifts to the local village children. This chief was a character; 70ish years of age dressed in an elaborate red and gold outfit swinging back and forth in a hammock....at the end of the sitting he proposed to one of the Street Child reps and invited all of us to the wedding! Back on the bikes and along a trail through the jungle until we hit rocky sand. For those that have never cycled through sand, I can advise you not to try it. It is hard; you slip, you fall, you bruise, it hurts - simple as that.  After a very long 2 hours of struggling and lots of bumps and cuts we finally arrived in our destination; Sulima. By the time we arrive almost half the group have a bad stomach, every one is shattered from the long day and dehydration is kicking in, but before we can head to bed we have to meet the Chief and handover some gifts. We were shown the beach...beautiful yellow sandy beaches for as far as the eye can see, with the crashing of waves and a backdrop of green jungles. Unfortunately the beach is littered in plastic rubbish washed up from the sea, and empty boxes of American Opiet drugs; since the war there has been a flood of cheap American Opiets in Sierra Leone, making addiction common among many in larger communities. 
 
@@ -48,6 +52,8 @@ Day four was, distance wise, easy as we had to allow for plenty of time to cross
 
 We set off back along sandy track for a couple of hours of more falls and bruises - falling into a muddy puddle full of rocks is really not a nice feeling! 
 We stopped at another school which Street Child helps out, where we played a bit of football in the scorching sun and met the kids and teachers. The headteacher was an agricultural man from the North of Sierra Leone who visited the village a couple of years ago and saw there was no local school, so he set one up and has been teaching there ever since....as a volunteer, completely unpaid - he teaches 80 children 5 days week.
+
+![school]({{ site.url }}/images/photo-6.jpeg)
 
 After a couple of hours we hit a junction where we sought cover from the sun under a stand with the local Chief, one of the members of the group had gone down with really bad dehydration and the medic had to rehydrate them via an intravenous drip; how she managed to stay so cool is a testament to her professionalism. In the middle of Sierra Leone, with about 60 kids shouting and pushing around our support car whist she calmly inserted an IV drip - amazing work, but another realisation to the rest of us that we really are in the remote areas of West Africa; days away from the nearest hospital. 
 
@@ -76,6 +82,7 @@ After visiting the school we were back on our bikes for the finial 30 miles...bu
 
 We approached the hill as a team, and tackled it together - legs burning, hands blistered, lungs tight, bum’s so sore you could barely sit on the seat -cheering and pushing each other along ensuring that everyone one of us in the group crossed that line on their bike, together. Done, complete, finished. 
 
+![the end]({{ site.url }}/images/photo-4.jpeg)
 
 ## The End...
 This trip was one of the most amazing experiences, and up their with the hardest challenges I’ve ever done. It was mentally draining, thought provoking - shocking at times - and physically challenging.  Seeing the great work charities like Street Child do in these hard to reach places, and hearing stories that are unimaginable to most people in the west: the horrific history of the Civil War; Parents being shot in front of Children, 13 year old boys being forced to mutilate others - through to FGM and rape on girls as young as 5, the teenage prostitution and the addictions to cheap over the counter drugs and, more recently, the Ebola outbreak. The large swathes of people thrust back into poverty due to European mining companies pulling out, and the sudden influx of Chinese workers building infrastructure in return for debts which will cripple any future potential economic growth.
