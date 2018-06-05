@@ -18,7 +18,7 @@ A couple of hours later we arrived in a somewhat damp and old looking Hotel  whe
 
 Today we visited a school a couple of miles out from the hotel where Street Child support a couple of children, the school was a structure built of local wood and second hand corrugated iron consisting of 6 classrooms holding 402 children and 7 teachers who haven’t received a salary for over 6 months. After disrupting the, by now, hyperactive children we walked around the local area to visit the market and meet some of the local traders which Street Child support, one selling local chillies and saving 5,000 leones (50p) a week via Street Child for her future and another who have set up a stall selling biscuits, toothpaste and cigarettes so they can afford to send their child to school (which costs £30 a year).
 
-1[school]({{ site.url }}/images/photo-6.jpeg)
+![school]({{ site.url }}/images/photo-6.jpeg)
 
 After lunch, we headed to Street Child’s compound in Bo to get fitted up on our bikes (Mine was called ‘Big Boss’) and get a briefing on what the next few days would look like. Following this we went over to meet the Sports Minister in Bo’s Chinese funded Football stadium; a vast building which is rarely used as the local people need to ‘rent’ it out from the Chinese to use it, but the cost to rent is unaffordable and thus this building just stands there rusting, unused.
 
