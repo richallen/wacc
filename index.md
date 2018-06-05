@@ -3,7 +3,7 @@ layout: post
 title: "The Journey"
 tags: [travel, cycling, west africa, Sierra leone, Liberia, street child]
 image:
-  feature: /images/main.jpeg
+  feature: main.jpeg
 ---
 
 
