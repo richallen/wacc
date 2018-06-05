@@ -28,11 +28,13 @@ links:
   - title: The Journey
     url: /
   - title: About
-    url: /about
+    url: https://westafricacyclechallenge.com/
+    external: true
   - title: Pictures
     url: /pictures
   - title: Donate
-    url:   
+    url: https://west-africa-cycle-challenge-jun18.everydayhero.com/uk/west-africa-cycle-ride
+    external: true   
   - title: Advice
     url: /advice
   
