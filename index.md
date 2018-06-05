@@ -7,7 +7,7 @@ tags: [travel, cycling, west africa, Sierra leone, Liberia, street child]
 
 I haven’t blogged in almost 2 years, but I’ve just taken part in one of the most amazing experiences of my life; a ~200 mile cycle ride through Sierra Leone and Liberia.
 
-We cycled over newly built Chinese funded roads, up and down muddy rollers, through rural DFID supported villages, over EU funded bridges and via Street Child supported projects; all whilst traversing West Africa's lush green scenery and under it's sticky humidity and unforgiving weather (May is the start of the rainy season!). All in aid of supporting the great work [Street Child](https://www.street-child.co.uk) do (it’s not too late to [donate!](https://west-africa-cycle-challenge-jun18.everydayhero.com/uk/west-africa-cycle-ride).
+We cycled over newly built Chinese funded roads, up and down muddy rollers, through rural DFID supported villages, over EU funded bridges and via Street Child supported projects; all whilst traversing West Africa's lush green scenery and under it's sticky humidity and unforgiving weather (May is the start of the rainy season!). All in aid of supporting the great work [Street Child](https://www.street-child.co.uk) do (it’s not too late to [donate!](https://west-africa-cycle-challenge-jun18.everydayhero.com/uk/west-africa-cycle-ride).)
 
 I arrived in Sierra Leone a couple of days early to catch up with a few old friends and see how Freetown has changed since my last visit, but I’ll skip that and jump straight to the start of the challenge itself.
 
@@ -29,13 +29,13 @@ The ride starts; we started peddling at 7am from a local petrol station, waved o
 
 We stopped below a mango tree in a village called Futapeje for lunch, where two local Sierra Leonians who set up ahead of us cooked groundnut stew, chicken and rice for lunch - just what’s needed to fill a, by now, very hungry stomach! 
 
-![bike]({{ site.url }}/images/photo-7.jpeg)
+![bikesandus]({{ site.url }}/images/photo-7.jpeg)
 
 After lunch we hit red dusty roads, with rollers up and down along an unbuilt road with the sun pounding down on us and the humidity hitting 96%...starting to wish I hadn’t eaten so much for lunch now! By 15:00 we had reached our finial point of the day, slightly ahead of schedule. The village was called Portoru, and, as is customary in Sierra Leone, we had an audience with the local chief where we handed over some gifts for the local children; footballs and supplies for the school - we then heard from some of the local girls who are beneficiaries of Street Child - allowing them to go to School. One of the local girls travelled 12 miles to get to school and used to sleep rough during the weeks so she could attend and return home during the weekends; unfortunately one night this poor girl was raped whilst sleeping out on the streets - now, thanks to the support of Street Child, she stays with a local family in the village during the week so she can attend her lessons.
 
 That night was spent in the local community hut, sleeping on foam matts under mosquito nets top and tailing it in twos. Some blue tarpaulin was put up outside to provide some privacy whilst we bucket showered away the red muck that had stuck to us from the days cycle. A generator had been switched on in a local shop over the road when we arrived, which meant one thing....a cold Star beer...result. The night was spent playing cards on the patio and observing the bright moon lighting up the jungle canopies around us.
 
-![sleep]({{ site.url }}/images/photo-3.jpeg
+![sleep]({{ site.url }}/images/photo-3.jpeg)
 
 ## Day Three
 Tough. Really tough.
