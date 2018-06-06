@@ -5,27 +5,6 @@ tags: [travel, cycling, west africa, Sierra leone, Liberia, street child]
 
 ---
 
-<script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.45.0/mapbox-gl.js'></script>
-<link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.45.0/mapbox-gl.css' rel='stylesheet' />
-<style>
-body { margin:0; padding:0; }
-map { position:absolute; top:0; bottom:0; width:100%; }
-</style>
-
-
-<div id='map'></div>
-<script>
-mapboxgl.accessToken = 'pk.eyJ1Ijoicm91cmtpZSIsImEiOiJ0Mlg4RTU0In0.jnyGthqO9MDP1JD1Rpl8eg';
-var map = new mapboxgl.Map({
-container: 'map', // container id
-style: 'mapbox://styles/rourkie/cji2oc2nd0v4r2ss5gabc4cc8', // stylesheet location
-center: [-11.20, 7.59], // starting position [lng, lat]
-zoom: 7 // starting zoom
-});
-</script>
-
-
-
 I haven’t blogged in almost 2 years, but I’ve just taken part in one of the most amazing experiences of my life; a ~200 mile cycle ride through Sierra Leone and Liberia.
 
 We cycled over newly built Chinese funded roads, up and down muddy rollers, through rural DFID supported villages, over EU funded bridges and via Street Child supported projects; all whilst traversing West Africa's lush green scenery and under it's sticky humidity and unforgiving weather (May is the start of the rainy season!). All in aid of supporting the great work [Street Child](https://www.street-child.co.uk) do (it’s not too late to [donate!](https://west-africa-cycle-challenge-jun18.everydayhero.com/uk/west-africa-cycle-ride).)
