@@ -17,7 +17,7 @@ tags: [Cycling, West Africa, Maps, Sierra Leone, Liberia]
 mapboxgl.accessToken = 'pk.eyJ1Ijoicm91cmtpZSIsImEiOiJ0Mlg4RTU0In0.jnyGthqO9MDP1JD1Rpl8eg';
 var map = new mapboxgl.Map({
     container: 'map', // container id
-    style: 'mapbox://rourkie/mapbox/cji2oc2nd0v4r2ss5gabc4cc8', // stylesheet location
+    style: 'mapbox://styles/rourkie/cji2oc2nd0v4r2ss5gabc4cc8', // stylesheet location
     center: [-74.50, 40], // starting position [lng, lat]
     zoom: 9 // starting zoom
 });
