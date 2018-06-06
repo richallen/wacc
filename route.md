@@ -11,7 +11,7 @@ tags: [Cycling, West Africa, Maps, Sierra Leone, Liberia]
     body { margin:0; padding:0; }
     #map { vertical-align: middle;
         min-height: 360px;
-        height: 50vh;
+        height: 100vh;
         width: 100%;
         max-height: 800px;
         background-position: center center;
