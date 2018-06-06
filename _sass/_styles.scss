@@ -268,12 +268,13 @@ header.site-header nav {
   
   ul li {
     font-size: 16px;
-    text-transform: uppercase;
     display: inline;
-    font-weight: bold;
+    font-weight: 800;
     top: 2px;
     position: relative;
-    margin-left: 20px; 
+    margin-left: 20px;
+    color: #D53F4A;
+    border-bottom: 2px solid #404D5B; 
     a {
         color: white;
         @include transit(all, .2s, ease);
