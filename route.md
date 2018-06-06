@@ -9,10 +9,26 @@ tags: [Cycling, West Africa, Maps, Sierra Leone, Liberia]
 <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.45.0/mapbox-gl.css' rel='stylesheet' />
 <style>
     body { margin:0; padding:0; }
-    #map { position: absolute; top: 0; bottom: 0; width: 50%;}
+    #map { vertical-align: middle;
+        min-height: 360px;
+        height: 50vh;
+        width: 100%;
+        max-height: 800px;
+        background-position: center center;
+        background-size: cover;
+        vertical-align: middle;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        position: relative;
+        top: 0;
+        z-index: -1;}
 </style>    
 
+
 <div id='map'></div>
+
+
 <script>
 mapboxgl.accessToken = 'pk.eyJ1Ijoicm91cmtpZSIsImEiOiJ0Mlg4RTU0In0.jnyGthqO9MDP1JD1Rpl8eg';
 var map = new mapboxgl.Map({
