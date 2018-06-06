@@ -30,7 +30,6 @@ a, a:visited, a:active {
 display: inline-block;
 color: #D53F4A;
 text-decoration: none;
-border-bottom: 2px solid #404D5B;
 font-weight: 800;
     @include transit(all,0.25s,ease-in-out);
 }
@@ -39,7 +38,6 @@ a:hover {
     color: #404D5B;
 text-align: center;
 pointer-events: auto;
-border-bottom: 2px solid #D53F4A;
     @include transit(all,.25s, ease-in-out)
 }
 
