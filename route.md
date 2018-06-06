@@ -18,7 +18,8 @@ mapboxgl.accessToken = 'pk.eyJ1Ijoicm91cmtpZSIsImEiOiJ0Mlg4RTU0In0.jnyGthqO9MDP1
 var map = new mapboxgl.Map({
     container: 'map', // container id
     style: 'mapbox://styles/rourkie/cji2oc2nd0v4r2ss5gabc4cc8', // stylesheet location
-    center: [-74.50, 40], // starting position [lng, lat]
-    zoom: 9 // starting zoom
+    center: [-11.43, 7.26], // starting position [lng, lat]
+    zoom: 8.4, // starting zoom
+    pitch: 50
 });
 </script>
