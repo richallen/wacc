@@ -1,7 +1,7 @@
 title:            West Africa Cycle Challange
 tagline:          Sierra Leone to Liberia, in aid of Street Child
 description:      A cycleride through Seirra Leone and Liberia.
-url: https://pmrourkie.github.io/wacc/
+url: https://pmrourkie.github.io/wacc
 
 # Owner/author information
 owner:
@@ -28,7 +28,7 @@ links:
   - title: The Journey
     url: /
   - title: About
-    url: https://westafricacyclechallenge.com/
+    url: /about
     external: true
   - title: Pictures
     url: /pictures
