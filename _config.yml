@@ -27,14 +27,12 @@ opengraph:
 links:
   - title: The Journey
     url: /
-  - title: About
-    url: /about
   - title: Pictures
     url: /pictures
   - title: Donate
     url: https://west-africa-cycle-challenge-jun18.everydayhero.com/uk/west-africa-cycle-ride
     external: true   
-  - title: Route
+  - title: The Route
     url: /route
   
 
