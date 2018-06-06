@@ -217,7 +217,7 @@ header.site-header {
       }
       
       nav ul li a {
-            color: #D53F4A;
+            color: $black;
             &:active {
               color: $link;  
             }
