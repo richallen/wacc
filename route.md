@@ -1,5 +1,5 @@
 ---
-layout: page-no-feature
+layout: post-no-feature
 title: "Route"
 tags: [blog, graphic design]
 ---
