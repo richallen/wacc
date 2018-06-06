@@ -22,3 +22,5 @@ I utilized my own HTML templates, but had no prior knowledge of liquid nor the r
 
 ### The Name
 Balzac was a famous writer, known for his beautiful prose. I read some Balzac in school, but mostly feel comfort in the name of my favorite coffee shop in Stratford, Ontario. 
+
+
