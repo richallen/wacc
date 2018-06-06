@@ -2,6 +2,7 @@
 layout: post-no-feature
 title: "The Route"
 tags: [Cycling, West Africa, Maps, Sierra Leone, Liberia]
+description: The route started in Bo, Sierra Leone, through the rural south of Sierra Leone onto the border, over the river Mano and into Liberia until Robertsport.
 ---
 
 
@@ -11,7 +12,7 @@ tags: [Cycling, West Africa, Maps, Sierra Leone, Liberia]
     body { margin:0; padding:0; }
     #map { vertical-align: middle;
         min-height: 360px;
-        height: 100vh;
+        height: 85vh;
         width: 100%;
         max-height: 800px;
         background-position: center center;
@@ -28,6 +29,17 @@ tags: [Cycling, West Africa, Maps, Sierra Leone, Liberia]
 
 <div id='map'></div>
 
+
+This data is taken from Strava (It just about worked!!), with each day being below:
+
+
+<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1604275180/embed/438de37f24d7407ec656943f78b46b31cbbee7ec'></iframe>
+
+<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1609489886/embed/5af0fee9bce70756ce6e6621cd5d51f1c875350c'></iframe>
+
+<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1609489870/embed/4d3518e5b5a5d29968808ff45136e1196ffa15ac'></iframe>
+
+<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1616984907/embed/12647c65b187893f5f81dbe5ba0c20abe75e224c'></iframe>
 
 <script>
 mapboxgl.accessToken = 'pk.eyJ1Ijoicm91cmtpZSIsImEiOiJ0Mlg4RTU0In0.jnyGthqO9MDP1JD1Rpl8eg';
