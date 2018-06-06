@@ -23,4 +23,3 @@ var map = new mapboxgl.Map({
     pitch: 50
 });
 </script>
-
