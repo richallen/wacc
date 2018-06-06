@@ -1,5 +1,5 @@
 ---
-layout: post-no-feautre
+layout: post-no-feature
 permalink: /about/index.html
 title: About
 description: Balzac is a new, fluid & responsive theme for Jekyll (and AnchorCMS). It's gloriously beautiful and suited to long form. Built on a SCSS foundation, it's organized and awesome.
